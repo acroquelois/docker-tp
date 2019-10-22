@@ -41,5 +41,6 @@ docker run -d -p 5000:5000 my-hello-world
 
 And I want it to be pushed on docker hub.
 
-Here you must put the link on :
+
+Here you must put the link on (this is my ubuntu container link because the python part already exist) :
 https://hub.docker.com/r/acroquelois/ubuntu_script_ops
